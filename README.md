@@ -10,7 +10,7 @@ The system uses Natural Language Processing (NLP) and Machine Learning technique
 
 ## 🌐 Live Application
 
-🔗 Try the dashboard here: https://https://futureml03.streamlit.app
+🔗 Try the dashboard here: https://futureml03.streamlit.app
 
 ---
 
